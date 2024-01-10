@@ -34,7 +34,7 @@ Author -  [@Manjunathgouda Patil](https://github.com/manjupatil28)
 - To run this project locally, use the following command in your CLI:
 
 ```bash
-git clone 
+git clone https://github.com/manjupatil28/youtube-subscribers-api.git
 ```
 - Open your favorite code editor and run locally!
 ```bash
